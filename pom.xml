@@ -97,4 +97,15 @@
         </dependency>
     </dependencies>
 
+    <distributionManagement>
+        <snapshotRepository>
+            <id>amana</id>
+            <url>http://maven.nexus-amana.com/content/repositories/snapshots</url>
+        </snapshotRepository>
+        <repository>
+            <id>amana</id>
+            <url>http://maven.nexus-amana.com/content/repositories/releases</url>
+        </repository>
+    </distributionManagement>
+
 </project>
