@@ -20,4 +20,4 @@ If the parent Nexmo repository gets updated in should be trivial to pull these c
 * The dependencies in the pom may need to be updated to be kept in sync with those under `lib`.
 * The version may need to be updated to match that in `build.xml`.
 
-The project's original README can be found in [`README.txt`](README.txt).
+The project's original README can be found in [`readme.txt`](readme.txt).
